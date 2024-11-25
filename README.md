@@ -28,3 +28,7 @@ ve ileri seviye özellikleri öğrenmek isteyenler için rehber niteliğindedir.
 - **Form Bilgilerinin Kayıt Edilmesi:** Kullanıcı formlarının veritabanına kaydedilmesi.
 - **Katılımcıların Listelenmesi:** Veritabanındaki katılımcı kayıtlarının listelenmesi.
 - **Katılımcı Detay Sayfası:** Katılımcı bilgilerini detaylı bir şekilde görüntüleme.
+
+
+https://github.com/user-attachments/assets/b1c81cdd-2796-45c0-aeb6-a017b338c3a0
+
